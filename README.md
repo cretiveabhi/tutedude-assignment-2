@@ -1,1 +1,4 @@
 # tutedude-assignment-2
+this file include 2 tasks
+task 1: to find whether a number is even or odd
+task 2: to print sum of integers from 1 to 50 using loop
